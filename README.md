@@ -1,1 +1,25 @@
 # nvim-config
+#Modular nvim-config
+##Currently running:
+*"goolord/alpha-nvim",
+*"hrsh7th/cmp-nvim-lsp"
+*"tpope/vim-fugitive"
+*"lewis6991/gitsigns.nvim"
+*"saadparwaiz1/cmp_luasnip"
+*"rafamadriz/friendly-snippets"
+*"williamboman/mason-lspconfig.nvim"
+*"nvim-lualine/lualine.nvim"
+*"nvim-neo-tree/neo-tree.nvim"
+*"nvim-lua/plenary.nvim"
+*"nvim-tree/nvim-web-devicons"
+*"MunifTanjim/nui.nvim"
+*"nvimtools/none-ls.nvim"
+*"alexghergh/nvim-tmux-navigation"
+*"stevearc/oil.nvim"
+*"olivercederborg/poimandres.nvim"
+*"vinnymeller/swagger-preview.nvim"
+*"nvim-telescope/telescope-ui-select.nvim"
+*"nvim-telescope/telescope.nvim"
+*"nvim-treesitter/nvim-treesitter"
+*"vim-test/vim-test"
+*"folke/which-key.nvim"
