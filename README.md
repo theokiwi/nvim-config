@@ -9,8 +9,8 @@
         <li>Autocompletion</li>
         <li>Snippets</li>
 </ul>
+<h4>Plugins/Dependencies</h4>
 <ol>
-<h4>Plugins and dependencies</h4>
         <li>goolord/alpha-nvim</li>
         <li>hrsh7th/cmp-nvim-lsp</li>
         <li>tpope/vim-fugitive</li>
