@@ -1,5 +1,5 @@
 <h2>Modular nvim-config</h2>
-<p>Welcome! This is my first attempt at using NeoVim, this is based on the video series linked at the end.</p>
+<p>Welcome! This is my first attempt at using NeoVim, this is based on the video series linked below.</p>
 <a href="https://www.youtube.com/playlist?list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn">Video used as guide.</a>
 <h4>Features</h4>
 <ul>
