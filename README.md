@@ -10,6 +10,7 @@
         <li>Snippets</li>
 </ul>
 <ol>
+<h4>Plugins and dependencies</h4>
         <li>goolord/alpha-nvim</li>
         <li>hrsh7th/cmp-nvim-lsp</li>
         <li>tpope/vim-fugitive</li>
